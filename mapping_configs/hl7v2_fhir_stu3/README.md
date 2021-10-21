@@ -25,7 +25,7 @@ freshness: { owner: 'sshussain' reviewed: '2020-04-29' }
 
 This document describes a mapping guide to transform various healthcare data
 standards and terminologies using the
-[Whistle Data Transformation Language](http://github.com/GoogleCloudPlatform/healthcare-data-harmonization/blob/master/mapping_language/doc/index.md).
+[Whistle Data Transformation Language](https://github.com/GoogleCloudPlatform/healthcare-data-harmonization/blob/master/mapping_language/doc/codelab.md).
 
 ## Healthcare Data Standards
 
